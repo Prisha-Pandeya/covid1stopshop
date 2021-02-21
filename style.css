@@ -1,0 +1,88 @@
+h1{
+  color: blue;
+  font-family: ;   
+  text-align: center; 
+}
+h4{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
+  color: gray; 
+}
+.mapcenter{
+  text-align: center;
+  background-color: aliceblue;
+  padding: 10px;
+}
+.testingdivthing{
+  background-color: aliceblue; 
+  padding: 10px; 
+}
+#submit{
+  border-color: whitesmoke; 
+  background-color: whitesmoke; 
+  color:black; 
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.checkboxes{
+  border-color: antiquewhite; 
+}
+h3{
+  color: black;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
+  text-align: center;
+}
+p{
+  font-family: ;
+}
+
+a:link {
+  color: blue;
+  background-color: transparent;
+  
+}
+
+a:visited {
+  color: pink;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
+.topnav {
+  background-color: #333;
+  overflow: hidden;
+  text-align: center;
+}
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color:rgb(240, 254, 255);
+  color: blue;
+}
+
+.demopara {
+  line-height: 2 ;
+}
+
+.demopara {
+  font-family: "Trirong", serif;
+}
+.textdiv{
+  margin: 10px; 
+}
